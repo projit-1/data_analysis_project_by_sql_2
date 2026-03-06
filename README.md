@@ -93,7 +93,7 @@ Possible extensions of this project include:
 Conclusion
 This project demonstrates how SQL can be used to analyze sports performance data and generate meaningful insights. It highlights the importance of analytical SQL techniques in real-world data analysis and serves as a strong portfolio project for aspiring data analysts.
 
-Author
+Author: 
 Projit Mondol
 Data Analysis | SQL | Power BI | Python | Economic & Development Analytics
 
